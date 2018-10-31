@@ -382,7 +382,7 @@ int main(int argc, char** argv) {
     }
     
     cout << endl << "VALIDATION TESTS COMPLETE" << endl << flush;
-    cout << "/************************************************************/" << endl << cout;
+    cout << "/************************************************************/" << endl << flush;
 
     return 0;
 }
