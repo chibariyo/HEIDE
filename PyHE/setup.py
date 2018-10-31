@@ -50,7 +50,6 @@ ext_modules = [
                 HELIB_BASE + "/KeySwitching.cpp",
                 HELIB_BASE + "/matching.cpp",
                 HELIB_BASE + "/NumbTh.cpp",
-                HELIB_BASE + "/OldEvalMap.cpp",
                 HELIB_BASE + "/OptimizePermutations.cpp",
                 HELIB_BASE + "/PAlgebra.cpp",
                 HELIB_BASE + "/PermNetwork.cpp",
